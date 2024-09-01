@@ -12,114 +12,114 @@ const questions = [
     domain: "Attention",
     key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
   },
-  // {
-  //   id: 3,
-  //   text: "I can quickly solve mathematical problems in my head.",
-  //   domain: "Processing Speed",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 4,
-  //   text: "I excel at finding creative solutions to complex problems.",
-  //   domain: "Problem-Solving",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 5,
-  //   text: "I often forget important dates or appointments.",
-  //   domain: "Memory",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 6,
-  //   text: "I can easily focus on a task even in a noisy environment.",
-  //   domain: "Attention",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 7,
-  //   text: "I take longer than others to complete tasks or assignments.",
-  //   domain: "Processing Speed",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 8,
-  //   text: "I struggle to see connections between different ideas or concepts.",
-  //   domain: "Problem-Solving",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 9,
-  //   text: "I can easily recall details from conversations I had days ago.",
-  //   domain: "Memory",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 10,
-  //   text: "I find it difficult to multitask effectively.",
-  //   domain: "Attention",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 11,
-  //   text: "I can quickly process and understand new information.",
-  //   domain: "Processing Speed",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 12,
-  //   text: "I enjoy tackling puzzles or brain teasers.",
-  //   domain: "Problem-Solving",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 13,
-  //   text: "I often need to re-read paragraphs to understand their meaning.",
-  //   domain: "Memory",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 14,
-  //   text: "I can maintain concentration on a task for long periods without breaks.",
-  //   domain: "Attention",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 15,
-  //   text: "I can quickly identify patterns in complex data or information.",
-  //   domain: "Processing Speed",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 16,
-  //   text: "I find it challenging to adapt my approach when faced with unexpected obstacles.",
-  //   domain: "Problem-Solving",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 17,
-  //   text: "I can easily remember and follow multi-step instructions.",
-  //   domain: "Memory",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 18,
-  //   text: "I often find my mind wandering during conversations.",
-  //   domain: "Attention",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 19,
-  //   text: "I can quickly organize my thoughts and express them clearly.",
-  //   domain: "Processing Speed",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // },
-  // {
-  //   id: 20,
-  //   text: "I'm good at breaking down complex problems into manageable steps.",
-  //   domain: "Problem-Solving",
-  //   key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
-  // }
+  {
+    id: 3,
+    text: "I can quickly solve mathematical problems in my head.",
+    domain: "Processing Speed",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 4,
+    text: "I excel at finding creative solutions to complex problems.",
+    domain: "Problem-Solving",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 5,
+    text: "I often forget important dates or appointments.",
+    domain: "Memory",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 6,
+    text: "I can easily focus on a task even in a noisy environment.",
+    domain: "Attention",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 7,
+    text: "I take longer than others to complete tasks or assignments.",
+    domain: "Processing Speed",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 8,
+    text: "I struggle to see connections between different ideas or concepts.",
+    domain: "Problem-Solving",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 9,
+    text: "I can easily recall details from conversations I had days ago.",
+    domain: "Memory",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 10,
+    text: "I find it difficult to multitask effectively.",
+    domain: "Attention",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 11,
+    text: "I can quickly process and understand new information.",
+    domain: "Processing Speed",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 12,
+    text: "I enjoy tackling puzzles or brain teasers.",
+    domain: "Problem-Solving",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 13,
+    text: "I often need to re-read paragraphs to understand their meaning.",
+    domain: "Memory",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 14,
+    text: "I can maintain concentration on a task for long periods without breaks.",
+    domain: "Attention",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 15,
+    text: "I can quickly identify patterns in complex data or information.",
+    domain: "Processing Speed",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 16,
+    text: "I find it challenging to adapt my approach when faced with unexpected obstacles.",
+    domain: "Problem-Solving",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 17,
+    text: "I can easily remember and follow multi-step instructions.",
+    domain: "Memory",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 18,
+    text: "I often find my mind wandering during conversations.",
+    domain: "Attention",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 19,
+    text: "I can quickly organize my thoughts and express them clearly.",
+    domain: "Processing Speed",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  },
+  {
+    id: 20,
+    text: "I'm good at breaking down complex problems into manageable steps.",
+    domain: "Problem-Solving",
+    key: "KEYLOWKEYLOWSHORTKEYNEUTRALKEYHIGHSHORTKEYHIGH"
+  }
 ];
 
 const options = [
